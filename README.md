@@ -1,3 +1,4 @@
+# REPORT
 # Word2Vec Model with Preprocessing
 
 This project demonstrates the use of Word2Vec for generating word embeddings, along with essential preprocessing steps for text data.
